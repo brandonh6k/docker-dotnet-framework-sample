@@ -1,0 +1,15 @@
+.git
+.gitignore
+.vs
+.vscode
+bin/
+obj/
+packages/
+*.user
+*.suo
+*.userprefs
+node_modules/
+npm-debug.log
+Dockerfile*
+docker-compose*
+README.md
